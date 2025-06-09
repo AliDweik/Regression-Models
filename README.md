@@ -27,6 +27,11 @@ Each model is trained, tested, and evaluated using relevant performance metrics 
 - Features include crime rate, number of rooms, property tax rate, etc.
 - Target: Median value of owner-occupied homes (`MEDV`)
 
+## 📁 Project Structure
+
+Regression-Models/
+├── gld_price_data.csv
+├── regression_models.py
 
 ## 🧪 Model Evaluation Metrics
 
