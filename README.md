@@ -50,3 +50,6 @@ Regression-Models/
 - Multiple Linear Regression gave the most balanced performance.
 - Polynomial Regression can help when relationships are nonlinear but needs tuning.
 - This project helped build foundational understanding of regression modeling and evaluation.
+
+## 📝 License
+This project is part of an academic assignment. Feel free to explore and modify for educational use.
